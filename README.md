@@ -1,2 +1,1 @@
-# FullStackProject
 # Project-Full-Stack
